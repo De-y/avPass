@@ -1,2 +1,3 @@
-# Kosciuszko
-Much more powerful than Kosciuszko-Legacy. Now utilizing routes & made with prisma in mind!
+# avPass
+
+I made this entire thing in 20 hours during my spring break.
